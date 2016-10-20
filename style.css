@@ -2,13 +2,22 @@
   margin: 0;
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background: yellow;
+}
+
 header {
   background: #333;
 }
 
 main {
   display: flex;
+  flex-direction: row;
   background: green;
+  flex: 1 1 auto;
 }
 
 article{
