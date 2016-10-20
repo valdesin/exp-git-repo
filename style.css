@@ -6,6 +6,18 @@ header {
   background: #333;
 }
 
+main {
+  background: green;
+}
+
+article{
+  background: blue;
+}
+
+aside {
+  background: red;
+}
+
 footer {
   background: #ccc;
 }
