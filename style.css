@@ -21,6 +21,11 @@ main {
   flex: 1 1 auto;
 }
 
+nav {
+  background: purple;
+  width: 100px;
+}
+
 article{
   flex: 1 1 auto;
   background: blue;
